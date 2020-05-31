@@ -1,0 +1,11 @@
+{
+  "name": "Metabreak",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Andrey Kuznetsov <fear@loathing.in>",
+  "license": "Copyright",
+  "private": true,
+  "dependencies": {
+    "tauri": "^0.6.2"
+  }
+}
